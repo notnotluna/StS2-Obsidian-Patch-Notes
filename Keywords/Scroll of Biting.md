@@ -1,0 +1,4 @@
+---
+aliases:
+  - Scrolls of Biting
+---

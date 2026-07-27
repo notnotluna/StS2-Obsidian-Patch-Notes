@@ -1,0 +1,5 @@
+---
+aliases:
+  - Smoggy
+  - Evil Gas
+---

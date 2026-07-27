@@ -1,0 +1,5 @@
+---
+aliases:
+  - FlickFlack
+  - Flick Flack
+---

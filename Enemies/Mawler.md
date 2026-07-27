@@ -1,0 +1,4 @@
+---
+aliases:
+  - Scary Carnivore
+---

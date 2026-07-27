@@ -1,0 +1,4 @@
+---
+aliases:
+  - Gold Plated Cables
+---

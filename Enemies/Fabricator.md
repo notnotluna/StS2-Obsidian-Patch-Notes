@@ -1,0 +1,6 @@
+---
+aliases:
+  - Zapbot
+  - Guardbot
+  - Noisebot
+---

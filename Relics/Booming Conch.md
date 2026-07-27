@@ -1,0 +1,4 @@
+---
+aliases:
+  - Bounty Box
+---

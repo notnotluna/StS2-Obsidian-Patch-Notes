@@ -1,0 +1,5 @@
+---
+aliases:
+  - Toybox
+  - Wax Choker
+---
