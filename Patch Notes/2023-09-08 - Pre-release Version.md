@@ -64,7 +64,7 @@ We’ve also got tons of updated event art, UI changes, and bug fixes, among oth
 - Fixed character layering issues
 - Fixed softlock on Acid Dust and Fairy in a Bottle
 - Fixed softlock on stall
-- Fixed typo in Dense Vegetation event choice
+- Fixed typo in [[Dense Vegetation]] event choice
 - Run history no longer crashes game
 - Fixed softlock when debuffing [[Soul Nexus]]
 
@@ -92,7 +92,7 @@ We’ve also got tons of updated event art, UI changes, and bug fixes, among oth
 - Added button for swapping between Necrobinder and Osty being "in front"
 - Adjusted common button outlines to be thinner and always displayed for now
 - Adjusted event body text material and removed text panel background from Neow room
-- Adjusted merchant hitbox and added debug visualizer for the hitbox to test aspect ratios
+- Adjusted [[Merchant]] hitbox and added debug visualizer for the hitbox to test aspect ratios
 - Adjusted event text, spacing, alignment rules, etc
 - Updated text color in events to be cream (used to be white after event loc update)
 - Updated orb text materials and positioning logic

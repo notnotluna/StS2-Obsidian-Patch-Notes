@@ -38,7 +38,7 @@ We almost have metrics up and the work done on the run history screens this buil
 
 	- **Bug Fixes**
 - Card potions correctly clear out unchosen cards
-- Disable merchant card removal slot hover tip after using it
+- Disable [[Merchant]] card removal slot hover tip after using it
 - Fix duplicate encounters from unknown rooms
 - Disallow repeat encounters when moving from weak to normal pool
 - Fixed Fatal keyword wording
@@ -46,9 +46,9 @@ We almost have metrics up and the work done on the run history screens this buil
 - Fixed positioning of enchantment and rarity tab for card alteration preview
 - Map position marker now renders over map nodes
 - Osty not visible ressurecting at the end of combat
-- Show appropriate merchant error message when potion bar is full
+- Show appropriate [[Merchant]] error message when potion bar is full
 - Stone Calendar relic count is now cleared at end of fight
-- Survivor requires you to select a card to draw
+- [[Survivor]] requires you to select a card to draw
 - Tweak Heel card wording
 
 #Patch_Notes

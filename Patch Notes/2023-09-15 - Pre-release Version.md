@@ -63,7 +63,7 @@ Due to Unity's recent ~shenanigans~ the next build will be a while out as we exp
 
 	- **ART:**
 
-- Portrait art has been updated for the following events: [[Lost Wisp|Bedlam Beacon]], Dense Vegetation, Inviting Cocoon, [[Relic Trader]], Tea Master, The Round Tea Party, The Sunken Statue, The Trial, and Wellspring
+- Portrait art has been updated for the following events: [[Lost Wisp|Bedlam Beacon]], [[Dense Vegetation]], Inviting Cocoon, [[Relic Trader]], Tea Master, The Round Tea Party, The Sunken Statue, The Trial, and Wellspring
 - Updated Egg Layer's animations
 - Updated [[Entomancer]]'s animations
 - Resized [[Byrdonis]]

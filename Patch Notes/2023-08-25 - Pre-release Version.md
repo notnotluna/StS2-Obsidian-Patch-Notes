@@ -17,7 +17,7 @@ We also re-architected how events are displayed, loaded, and created, so if ther
 - Chaos no longer causes a softlock
 - Defect now starts with orbs during [[Battleworn Dummy]] event
 - Dexterity no longer affects “Dodge and Roll” secondary block amount
-- Equilibrium no longer causes Parasite cards to disappear from the hand
+- [[Equilibrium]] no longer causes Parasite cards to disappear from the hand
 - Fixed event title layout
 - Fixes softlock on win combat after Guilty was removed
 - Genetic Algorithm now saves block value between saves and reloads
@@ -68,7 +68,7 @@ We also re-architected how events are displayed, loaded, and created, so if ther
 - Updated Magnetism card art
 - Updated Master of Strategy card art
 - Updated Mind Blast card art
-- Updated Purity card art
+- Updated [[Purity]] card art
 - Updated Shiv card art
 - Updated Swift Strike card art
 - Updated The Bomb card art

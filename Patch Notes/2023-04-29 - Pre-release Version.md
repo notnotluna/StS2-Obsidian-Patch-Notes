@@ -33,7 +33,7 @@
 - Fix Osty intent disappearing after going to shop
 - phrog parasite death via doom softlocks game
 - plating not ticking down on damage
-- self forming clay applies power to enemy
+- [[Self-Forming Clay|self forming clay]] applies power to enemy
 - shrinker beetle intents incorrect
 - softlock when buying ashen strike from shop
 - Fixed Tungsten Rod relic reducing damage applied to Block
@@ -42,7 +42,7 @@
 - Disable speed multiplier on lunge animation
 
 	- **UI & Wording**
-- Fan of Knives wording improvements.
+- [[Fan of Knives]] wording improvements.
 - Fix Parse card and Sunken Statue event wording
 - Grab wording and tooltip improvements.
 - Improvements to temporary Dex/Strength wording.

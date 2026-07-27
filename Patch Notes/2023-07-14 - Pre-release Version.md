@@ -4,7 +4,7 @@ This time around we've got lots of fixes, a few QOL UX changes, and lots of love
 - Guilty curse's 'number of combats left' value now carries over between saves and reloads
 - Ornamental Fan relic now resets flashing behavior at the start of turn
 - Incubation chamber title now shows correctly on event
-- Merchant room background animation now loops correctly
+- [[Merchant]] room background animation now loops correctly
 - Ringing affliction now filters out statuses, curses, and unplayable cards
 - God gain text now no longer appears underneath relic inventory UI
 - Swift enchantment counter no longer goes negative
@@ -18,10 +18,10 @@ This time around we've got lots of fixes, a few QOL UX changes, and lots of love
 - [[Well-Laid Plans]] will no long auto-retain cards if its amount and the number of cards in your hand are equal
 - Clicking map drawing icon a second time now toggles drawing mode off
 - Fixed inconsistency between logic and text when selecting the "Keep going" choice in Wellspring event (take 6 dmg)
-- Merchant card removal hitbox is now still clickable if you cancel selection
-- Merchant relic slot now correctly clears previous relic when slot is refilled
+- [[Merchant]] card removal hitbox is now still clickable if you cancel selection
+- [[Merchant]] relic slot now correctly clears previous relic when slot is refilled
 - Choke no longer softlocks on enemy death
-- Fixed merchant relic hitbox
+- Fixed [[Merchant]] relic hitbox
 
 	- **UX:**
 - Osty's corpse now wiggles if you try to perform an action on him while he is dead

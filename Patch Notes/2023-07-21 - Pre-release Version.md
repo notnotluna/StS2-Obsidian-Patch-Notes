@@ -19,13 +19,13 @@ We've got a lot of miscellaneous bug fixes and balance changes today! Also, the 
 - Deprecated Frozen Eye
 
 	- **UX:**
-- Anger spawn card now no longer pauses card queue for as long (2.35s -> 0.75s)
+- [[Anger]] spawn card now no longer pauses card queue for as long (2.35s -> 0.75s)
 - Game over screen now shows Neow bonus
 - Game over screen now shows room history
 - Relic icons no longer appear in hovertips
 
 	- **BALANCE: **
-- Fan of Knives slightly reworked. Now gives 2 Shivs on play in addition to other effects. Upgrade changed from lowering cost to increasing shiv gain by 1
+- [[Fan of Knives]] slightly reworked. Now gives 2 Shivs on play in addition to other effects. Upgrade changed from lowering cost to increasing shiv gain by 1
 - [[Cubex Construct]] now loses tough when it starts charging up
 - Bygone Effigy moved to an Elite encounter. HP increased from 75->90
 - Molten Fist damage buffed from 8(11)->10(14)

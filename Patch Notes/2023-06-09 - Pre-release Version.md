@@ -42,7 +42,7 @@ Lots of visual changes and bug fixes, so feedback on those areas would be apprec
 - Fix issue where intent objects can be shared between turns
 - Fix map path bend amount regenerating on load
 - Fix map regenerating when loading after exiting application
-- Fix poison overlay size on intangible creatures
+- Fix poison overlay size on [[intangible]] creatures
 - Fix softlock at Symbiote event
 - Fix wording for Curse of the Bell
 - Fix wording for [[Mirage]]

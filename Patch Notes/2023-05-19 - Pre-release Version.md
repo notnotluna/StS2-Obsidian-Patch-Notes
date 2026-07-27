@@ -40,7 +40,7 @@
 - Make all encounters equally likely to appear
 - Osty now attacks the nearest enemy
 - Prune all duplicate path segments in the map
-- Stampede card rework: At end of your turn, 1 random attack card in your hand is played against a random enemy
+- [[Stampede]] card rework: At end of your turn, 1 random attack card in your hand is played against a random enemy
 
 	- **UI & Wording**
 - Add hovertip for room icons in topbar

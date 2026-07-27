@@ -207,7 +207,7 @@ We've been updating the underlying architecture of how actions work. The builds 
 - 2560x1440 resolution missing
 - aggression trying to upgrade already upgraded card causing npe
 - alteration preview only showing upgrade
-- armaments can upgrade dazed
+- [[Armaments]] can upgrade dazed
 - [[artifact]] pinging from normalities
 - axe [[Ruby Raiders|raider]] intent incorrect
 - beta card art not showing correctly
@@ -293,7 +293,7 @@ We've been updating the underlying architecture of how actions work. The builds 
 - gremlin horn description broken
 - handtrick missing sly description
 - Hatch option in rest site missing texture
-- Headbutt card select pulled up when combat was going to end anyway
+- [[Headbutt]] card select pulled up when combat was going to end anyway
 - [[Howl from Beyond]] card not playing correctly
 - Immolate not playing the enemies death animation
 - Increment discard count in CardLoader.Discard
@@ -305,8 +305,8 @@ We've been updating the underlying architecture of how actions work. The builds 
 - Make relic power DisplayAmounts work before connected
 - Make Stall check that creature is NOT dying
 - material exception on game over screen
-- Merchant card removal service hovertip description was using title
-- merchant colored/colorless cards slots are off
+- [[Merchant]] card removal service hovertip description was using title
+- [[Merchant]] colored/colorless cards slots are off
 - metallicize power is effected by dex
 - monsters not canceling multiattack if they die in the middle
 - mutable exception on [[Relic Trader]] event
@@ -342,7 +342,7 @@ We've been updating the underlying architecture of how actions work. The builds 
 - socket rocket fire animation off
 - softlock on when ashen strike has ringing
 - still NPE during transformation
-- Stop Armaments upgrades from persisting
+- Stop [[Armaments]] upgrades from persisting
 - Subscribe action sequence powers to duration triggers
 - symbiote speech bubble position is off
 - temp ironclad fix for multiattacks

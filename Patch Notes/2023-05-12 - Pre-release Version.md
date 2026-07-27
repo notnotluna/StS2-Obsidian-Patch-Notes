@@ -12,7 +12,7 @@
 - Enable auto-complete for card command when specifying a card pile
 - Fix dragged card jitter while cards are drawn
 - Fix energy orb flash when it goes from 4 -> 3 in some scenarios
-- Fix event ui blocking input in Dense Vegetation fight
+- Fix event ui blocking input in [[Dense Vegetation]] fight
 - Fix issue where character specific potions appeared too often
 - Fix softlock caused when certain relics were rolled in the Boss chest room
 - Fix [[Primal Force]] upgrade description highlighting
@@ -24,8 +24,8 @@
 - Fixed dupe cards showing up in shops
 - Fixed Ornamental Fan relic visuals not communicating its state properly
 - Fixed [[Unceasing Top]] + Pommel Strike interaction drawing 2 cards
-- Gold substraction at merchant was off by 1
-- Merchant hand was not moving from the last hover spot
+- Gold substraction at [[Merchant]] was off by 1
+- [[Merchant]] hand was not moving from the last hover spot
 - Normality was not removing card glow
 - Old Coin relic no longer appears in shops
 - Parasite affliction no longer affected by player powers

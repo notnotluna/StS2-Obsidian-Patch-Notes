@@ -51,7 +51,7 @@ Gameplay focus is large sweeping changes to [[DOOM]] cards, so let me know how t
 - GAMEPLAY: Master Planner rarity changed from UNCOMMON -> RARE.
 - BUGFIX: Axe [[Ruby Raiders|Raider]] softlock
 - BUGFIX: Fixed [[Battleworn Dummy]] softlock
-- BUGFIX: Retain keyword NPE fix.
+- BUGFIX: [[Retain]] keyword NPE fix.
 - BUGFIX: Grapple and Grapple+ now correctly work.
 - WORDING: Added Doom keyword to Borrowed Time.
 - WORDING: Loyalty wording improvements to enhance clarity.

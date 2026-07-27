@@ -11,7 +11,7 @@ _Note to self: Incorporate more emojis when we get to Steam announcements._
 - Make Necrobinder flames disappear on death
 - New Burrowing Bug animations
 - New card portrait for [[Blade of Ink]]
-- New card portrait for Fan of Knives
+- New card portrait for [[Fan of Knives]]
 - New card portrait for Pull Aggro
 - New card portrait for Snakebite
 - New card portrait for Swipe
@@ -50,12 +50,12 @@ _Note to self: Incorporate more emojis when we get to Steam announcements._
 - Transfuse buffed and made uncommon. Healing from 20 -> 25
 
 	- **Bug Fixes**
-- Armaments was showing cancel button on card select screen
+- [[Armaments]] was showing cancel button on card select screen
 - [[Blade of Ink]] card description not upgraded in smith
 - Can click on proceed when obtaining calling bell and miss rewards
 - Can hover over creatures at end of [[Battleworn Dummy]] event
 - Card selection screen not getting cleaned up after selection
-- Cleanse and Headbutt cards could allow you to back out of selection
+- Cleanse and [[Headbutt]] cards could allow you to back out of selection
 - Coupon Book relic also proccing on second shop entered
 - Despair power being affected by frail
 - Despair power not proccing off of rot
@@ -73,7 +73,7 @@ _Note to self: Incorporate more emojis when we get to Steam announcements._
 - Parasite cards will proc if enemies killed from stone calendar
 - Relic reward title mismatched from visual
 - [[Silver Crucible]] was counting up instead of down
-- Survivor card not previewing selected card before discarding it
+- [[Survivor]] card not previewing selected card before discarding it
 - Update energy for upgraded cards in buildinfo metrics
 - Upgrade screen not showing backout button
 - Use the same map settings for each act

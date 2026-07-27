@@ -10,7 +10,7 @@ There was also a massive architectural overhaul for how we handle localization, 
 - Downgrading an afflicted card no longer causes a softlock
 - [[Fabricator]] enemy no longer softlocks at the start of combat
 - Fix Byrdswoop card color
-- Fix merchant positioning
+- Fix [[Merchant]] positioning
 - Fix softlock if you pick a card that is already selected in a chain of Sly selection
 - Using [[Flex Potion]] wasn't updating card descriptions in hand
 
