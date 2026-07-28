@@ -20,7 +20,7 @@ We're starting to fill in Act 3 with content but not all the content is there ye
 	- **Content & Balance**
 - Rocket & Socket elite encounter reworked so Rocket is no longer a targetable enemy
 - Reworked Symbiote event choice. Lose 6HP and gain the new enchantment [[Corrupted]]
-- Ringing affliction changed from attacks deal half damage until played -> lose 1 energy on card play
+- [[Ringing]] affliction changed from attacks deal half damage until played -> lose 1 energy on card play
 - Added Bygone Effigy enemy encounter
 - Added Drone Deployer enemy encounter
 - Added [[Fabricator]] enemy encounter

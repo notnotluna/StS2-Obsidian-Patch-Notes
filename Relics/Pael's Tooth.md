@@ -1,0 +1,4 @@
+---
+aliases:
+  - Magic Pot
+---

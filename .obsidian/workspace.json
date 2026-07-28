@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6b24b5b4bc3e127a",
+        "id": "f202a3859b3beb2e",
         "type": "tabs",
         "children": [
           {
-            "id": "51acda40d32778ee",
+            "id": "fa0fd0ec086d783b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Patch Notes/V0.107.1 - Major Update 2.md",
+                "file": "Events/Whispering Hollow.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "V0.107.1 - Major Update 2"
-            }
-          },
-          {
-            "id": "5b700b00a4f0781b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Whispering Hollow"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Events/Whispering Hollow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Whispering Hollow"
             }
           },
           {
@@ -200,34 +190,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "5b700b00a4f0781b",
+  "active": "18c9970bc3bb82c0",
   "lastOpenFiles": [
-    "Patch Notes/V0.107.1 - Major Update 2.md",
-    "Cards/Arsenal.md",
-    "Relics/Candelabra.md",
-    "Patch Notes/V0.95.0 - Pre-release Version.md",
-    "Cards/Strangle.md",
-    "Patch Notes/V0.35.0 - Pre-release Version.md",
-    "Events/Dense Vegetation.md",
-    "Relics/Vambrace.md",
-    "Relics/Pael's Legion.md",
-    "Cards/Headbutt.md",
-    "Cards/Stampede.md",
-    "Cards/Juggling.md",
-    "Cards/Consuming Shadow.md",
-    "Cards/Beckon.md",
-    "Patch Notes/V0.61.0 - Pre-release Version.md",
-    "Relics/Funerary Mask.md",
-    "Cards/Soul.md",
-    "Cards/Fetch.md",
-    "Patch Notes/V0.86.0 - Pre-release Version.md",
-    "Patch Notes/V0.88.0 - Pre-release Version.md",
-    "Cards/Summon Forth.md",
-    "Relics/Regalite.md",
-    "Cards/I Am Invincible.md",
-    "Cards/Bombardment.md",
-    "Cards/Tools of the Trade.md",
-    "Cards/Fan of Knives.md",
+    "Patch Notes/V0.102.0 - Beta Patch.md",
+    "Relics/Dream Catcher.md",
+    "Relics/Lord's Parasol.md",
+    "Cards/Mayhem.md",
+    "Patch Notes/V0.81.0 - Pre-release Version.md",
+    "Cards/Bullet Time.md",
+    "Keywords/Smog.md",
+    "Patch Notes/V0.76.0 - Pre-release Version.md",
+    "Keywords/Ringing.md",
+    "Keywords/Hexed.md",
+    "Keywords/Galvanized.md",
+    "Keywords/Entangled.md",
+    "Keywords/Bound.md",
+    "Patch Notes/V0.10.0 - Pre-release Version.md",
+    "Cards/Modded.md",
+    "Patch Notes/V0.67.0 - Pre-release Version.md",
+    "Patch Notes/V0.66.0 - Pre-release Version.md",
+    "Patch Notes/V0.105.0 - Beta Patch.md",
+    "Cards/Hotfix.md",
+    "Events/Whispering Hollow.md",
+    "Patch Notes/V0.79.0 - Pre-release Version.md",
+    "Events/Waterlogged Scriptorium.md",
+    "Events/Hungry For Mushrooms.md",
+    "Cards/Leading Strike.md",
+    "Patch Notes/V0.103.0 - Beta Patch.md",
+    "Patch Notes/V0.103.1 - Beta Hotfix.md",
     "Ancients",
     "Acts",
     "UI",

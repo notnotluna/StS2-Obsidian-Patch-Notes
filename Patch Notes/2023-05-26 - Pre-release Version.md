@@ -12,7 +12,7 @@ We're still cleaning up some architecture but we might start sneaking in some Ac
 
 	- **Gameplay and Balance**
 - Osty no longer loses powers when dying
-- Added single [[Ruby Raiders|raider]] encounter to overgrowth weak pool
+- Added single [[Ruby Raiders|raider]] encounter to [[Overgrowth]] weak pool
 
 	- **Bug Fixes**
 - Show Shiv+ hovertip when Storm of Steel card is upgraded

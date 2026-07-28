@@ -15,7 +15,7 @@ _Note to self: Incorporate more emojis when we get to Steam announcements._
 - New card portrait for Pull Aggro
 - New card portrait for Snakebite
 - New card portrait for Swipe
-- New Decimillipede animations
+- New [[Decimillipede]] animations
 - New Necrobinder animations
 - New Osty animations
 - Tweaked hitbox and positioning of decemillipede segments
@@ -28,7 +28,7 @@ _Note to self: Incorporate more emojis when we get to Steam announcements._
 - Update Inflame card portrait
 - Update lil toad animations
 - Update Osty mix setting
-- Update overgrowth boss background for large resolution
+- Update [[Overgrowth]] boss background for large resolution
 - Update Putrefy card portrait
 - Update Scare Tactics card portrait
 - Update Slimed card portrait

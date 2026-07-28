@@ -39,7 +39,7 @@ We also re-architected how events are displayed, loaded, and created, so if ther
 - Changed [[Cubex Construct]]’s laser attack from 4x5 -> 3x5
 
 	- **CONTENT:**
-- Added "Hungry For Mushrooms" event to Act 3
+- Added "[[Hungry For Mushrooms]]" event to Act 3
 - Added "The Future of Potions?" event to Act 3
 - Added "The Trial" event to Act 3
 - Added "Tinker Time" event to Act 3

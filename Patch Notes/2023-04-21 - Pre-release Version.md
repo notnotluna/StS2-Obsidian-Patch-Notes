@@ -278,7 +278,7 @@ We've been updating the underlying architecture of how actions work. The builds 
 - Fix upgraded Flame Barrier and add rudimentary tests
 - Fixed bug with old way of displaying status intents
 - Fixed [[Ceremonial Beast]]'s attack pattern
-- Fixed errors around Leading Strike card
+- Fixed errors around [[Leading Strike]] card
 - Fixed flying knee description
 - Fixed guids on twig [[Slimes|slime]]
 - Fixed lil toad weak encounter localization string
@@ -340,7 +340,7 @@ We've been updating the underlying architecture of how actions work. The builds 
 - skeletonAnim not using AddAnimation call
 - slither wasn't randomizing during combat
 - socket rocket fire animation off
-- softlock on when ashen strike has ringing
+- softlock on when ashen strike has [[Ringing]]
 - still NPE during transformation
 - Stop [[Armaments]] upgrades from persisting
 - Subscribe action sequence powers to duration triggers

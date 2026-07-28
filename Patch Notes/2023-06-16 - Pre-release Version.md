@@ -8,7 +8,7 @@ We almost have metrics up and the work done on the run history screens this buil
 - [[Ceremonial Beast]] changes. HP from 220 -> 234. Butt attack changed from 6x2 -> 13 damage.
 - [[Fabricator]] Battle HP Value changes: [[Fabricator]] 140->123. [[Fabricator|Guardbot]] 40->45. [[Fabricator|Noisebot]] 30->40. Stabbot 30->35. [[Fabricator|Zapbot]] 22->30.
 - [[Flick-Flack|Flick Flack]] damage lowered from 7 -> 6.
-- Leading Strike shiv gain lowered from 2 -> 1.
+- [[Leading Strike]] shiv gain lowered from 2 -> 1.
 - [[Lost Wisp|Orb of Attraction]] damage from 10 -> 6.
 - Rocket/Socket attack changes. Double Swing attack changed to Big Swing attack: 4x2 -> 10 damage and apply two Dazed.
 - Rusted/Stone Blade Awoken changes: Now takes 3 -> 5 elites to transform and Strength lowered from 4 -> 3.

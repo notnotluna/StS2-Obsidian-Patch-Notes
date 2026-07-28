@@ -5,7 +5,7 @@ This time around we've got lots of fixes, a few QOL UX changes, and lots of love
 - Ornamental Fan relic now resets flashing behavior at the start of turn
 - Incubation chamber title now shows correctly on event
 - [[Merchant]] room background animation now loops correctly
-- Ringing affliction now filters out statuses, curses, and unplayable cards
+- [[Ringing]] affliction now filters out statuses, curses, and unplayable cards
 - God gain text now no longer appears underneath relic inventory UI
 - Swift enchantment counter no longer goes negative
 - 'End turn' UI no longer appears when final creature is killed by doom

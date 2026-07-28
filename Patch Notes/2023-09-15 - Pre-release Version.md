@@ -51,7 +51,7 @@ Due to Unity's recent ~shenanigans~ the next build will be a while out as we exp
 - Osty now correctly stays dead on save and reload
 - Fixed softlock if the Necrobinder dies before Osty
 - Fixed Osty switch button not showing up when Osty revives
-- Fixed Decimillipede background layering
+- Fixed [[Decimillipede]] background layering
 - Cards now animate smoothly in the background while preview plays
 - Future of Potions no longer tries to offer you a common Power card (as they don’t exist)
 - Time’s Up now includes Doom hovertip

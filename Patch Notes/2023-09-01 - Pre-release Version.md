@@ -35,7 +35,7 @@ If this was a Steam announcement I would post a gif of the new chest animation b
 - Updated [[Flick-Flack]] card art
 - Updated Good Instincts card art
 - Updated how chests look
-- Updated Mayhem card art
+- Updated [[Mayhem]] card art
 - Updated Necrobinder sprite font (energy icon)
 - Updated Panic Button card art
 - Updated Zap card art

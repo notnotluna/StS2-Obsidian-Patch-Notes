@@ -15,7 +15,7 @@ Just as important as game balance is the general vibe, feedback on those areas a
 - The boss icon on the map is now animated
 - Tweaked grande finale petal speed
 - Updated card portrait for Byrd Egg
-- Updated card portrait for Byrd Swoop
+- Updated card portrait for [[Byrd Swoop]]
 - Updated card portrait for Decay
 - Updated card portrait for Decay
 - Updated card portrait for Doubt
@@ -27,7 +27,7 @@ Just as important as game balance is the general vibe, feedback on those areas a
 - Updated card portrait for Writhe
 - Updated debuff intent asset
 - Updated Egg Layer and Baby anims
-- Updated [[Hive]] and Overgrowth backgrounds
+- Updated [[Hive]] and [[Overgrowth]] backgrounds
 - Updated Necrobinder card art with more skeletony fingers
 - Updated Neow in the starting room
 - Updated relic art for Astrolabe

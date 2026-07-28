@@ -75,7 +75,7 @@ We’ve also got tons of updated event art, UI changes, and bug fixes, among oth
 
 	- **ART:**
 
-- Updated event art for the following 16 events: [[Battleworn Dummy]], Brain Bug, Bug Slayer, Buried Seed, Byrdonis Egg, Cursed Choice, Field of the Forgotten, Hungry for Mushrooms, [[Infested Automaton]], Self-Help Book, Symbiote, [[Zen Weaver|Telepathic Spiders]], The Future of Potions, The Trial, Tinker Time, Wood Carvings
+- Updated event art for the following 16 events: [[Battleworn Dummy]], Brain Bug, Bug Slayer, Buried Seed, Byrdonis Egg, Cursed Choice, Field of the Forgotten, [[Hungry For Mushrooms]], [[Infested Automaton]], Self-Help Book, Symbiote, [[Zen Weaver|Telepathic Spiders]], The Future of Potions, The Trial, Tinker Time, Wood Carvings
 - Cleared out old potion outlines
 - Fixed Defect animation
 - Added art for remaining enchantment icons
